@@ -4,7 +4,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/1.Two%20Sum)|Easy|
 |2|[Add Two Number](https://leetcode.com/problems/add-two-numbers/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/2.Add%20Two%20Number)|Medium|
-|3|[Add Two Number](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/3.Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/3.Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/16.%203Sum%20Closest/src)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/101.Symmetric%20Tree/src)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted/srcc)|Easy|
