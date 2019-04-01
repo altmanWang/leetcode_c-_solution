@@ -10,7 +10,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted/srcc)|Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/216.%20Combination%20Sum%20III)|Medium|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/290.Word%20Pattern)|Easy|
-|343|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/343.Top%20k%20frequent%20elements)|Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/347.Top%20k%20frequent%20elements)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/475.%20Heaters)|Easy|
-|475|[Heaters](https://leetcode.com/problems/valid-mountain-array/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/941.%20Valid%20Mountain%20Array/src)|Easy|
+|941|[Heaters](https://leetcode.com/problems/valid-mountain-array/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/941.%20Valid%20Mountain%20Array/src)|Easy|
 
