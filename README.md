@@ -17,7 +17,7 @@ Solutions for Leetcode Algorithm Problems under C++
 
 Solutions for Others Algorithm Problems 
 
-| # | Title | Solution | Difficulty |
-|---| ----- | -------- | ---------- |
+| # | Title | Solution |
+|---| ----- | -------- |
 |1|[Maximum Subarray II/src](https://www.lintcode.com/problem/maximum-subarray-ii/description)| [Python](https://github.com/altmanWang/leetcode_c-_solution/tree/master/Maximum%20Subarray%20II/src)|
 
