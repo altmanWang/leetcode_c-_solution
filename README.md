@@ -19,5 +19,5 @@ Solutions for Others Algorithm Problems
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Maximum Subarray II/src](https://www.lintcode.com/problem/maximum-subarray-ii/description)| [Python](https://github.com/altmanWang/leetcode_c-_solution/tree/master/Maximum%20Subarray%20II/src)|–Ø≥Ã2020±  ‘Ã‚|
+|1|[Maximum Subarray II/src](https://www.lintcode.com/problem/maximum-subarray-ii/description)| [Python](https://github.com/altmanWang/leetcode_c-_solution/tree/master/Maximum%20Subarray%20II/src)|
 
