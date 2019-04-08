@@ -15,3 +15,9 @@ Solutions for Leetcode Algorithm Problems under C++
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/941.%20Valid%20Mountain%20Array/src)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/53.%20Maximum%20Subarray/src)|Easy|
 
+Solutions for Others Algorithm Problems 
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Maximum Subarray II/src](https://www.lintcode.com/problem/maximum-subarray-ii/description)| [Python](https://github.com/altmanWang/leetcode_c-_solution/tree/master/Maximum%20Subarray%20II/src)|–Ø≥Ã2020±  ‘Ã‚|
+
