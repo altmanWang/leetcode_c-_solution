@@ -12,5 +12,6 @@ Solutions for Leetcode Algorithm Problems under C++
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/290.Word%20Pattern)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/347.Top%20k%20frequent%20elements)|Medium|
 |475|[Heaters](https://leetcode.com/problems/heaters/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/475.%20Heaters)|Easy|
-|941|[ Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/941.%20Valid%20Mountain%20Array/src)|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/941.%20Valid%20Mountain%20Array/src)|Easy|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/53.%20Maximum%20Subarray/src)|Easy|
 
