@@ -17,7 +17,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/submissions/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/946.Validate%20Stack%20Sequences/src)|Medium|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/230.%20Kth%20Smallest%20Element%20in%20a%20BST/src)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/43.%20Multiply%20Strings/src)|Medium|
-
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/725.%20Split%20Linked%20List%20in%20Parts/src)|Medium|
 
 
 Solutions for Others Algorithm Problems 
