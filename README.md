@@ -18,6 +18,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/230.%20Kth%20Smallest%20Element%20in%20a%20BST/src)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/43.%20Multiply%20Strings/src)|Medium|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/725.%20Split%20Linked%20List%20in%20Parts/src)|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/47.%20Permutations%20II)|Medium|
 
 
 Solutions for Others Algorithm Problems 
