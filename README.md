@@ -22,6 +22,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/905.%20Sort%20Array%20By%20Parity/src)|Easy|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/1022.%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers)|Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/922.%20Sort%20Array%20By%20Parity%20II)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/404.%20Sum%20of%20Left%20Leaves)|Easy|
 
 Solutions for Others Algorithm Problems 
 
