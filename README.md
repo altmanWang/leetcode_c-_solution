@@ -25,6 +25,7 @@ Solutions for Leetcode Algorithm Problems under C++
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/404.%20Sum%20of%20Left%20Leaves)|Easy|
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/813.%20Largest%20Sum%20of%20Averages/)|Medium|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/654.%20Maximum%20Binary%20Tree/src)|Medium|
+|892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)| [C++](https://github.com/altmanWang/leetcode_c-_solution/tree/master/892.%20Surface%20Area%20of%203D%20Shapes/src)|Easy|
 Solutions for Others Algorithm Problems 
 
 | # | Title | Solution |
